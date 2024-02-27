@@ -1,10 +1,6 @@
 # Gift Basket Challenge 
-+ name: Victor Ferreira Teixeira da Silva
-+ email: victorock20@gmail.com
-+ personal website: https://victorfts.com/
 
 ## Introduction
-
 A packaging company is automating the packaging of gift baskets. 
 
 The gifts can come in one of five shapes: `Square`, `Rectangle`, `Circle`, `Oval`, and `Triangle`. They also have various weights from `50` grams to `250` grams in increments of `50`g.
